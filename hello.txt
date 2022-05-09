@@ -1,1 +1,2 @@
 Hello this is first edit from git repo
+This is second edit form git-bash
